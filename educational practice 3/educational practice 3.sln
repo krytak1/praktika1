@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "educational practice 3", "educational practice 3\educational practice 3.csproj", "{50FE8B9F-7858-4915-8B15-A12A978C23FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FE8B9F-7858-4915-8B15-A12A978C23FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FE8B9F-7858-4915-8B15-A12A978C23FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FE8B9F-7858-4915-8B15-A12A978C23FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FE8B9F-7858-4915-8B15-A12A978C23FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

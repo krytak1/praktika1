@@ -1,0 +1,14 @@
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\bin\Debug\net8.0\educational practice 7.exe
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\bin\Debug\net8.0\educational practice 7.deps.json
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\bin\Debug\net8.0\educational practice 7.runtimeconfig.json
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\bin\Debug\net8.0\educational practice 7.dll
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\bin\Debug\net8.0\educational practice 7.pdb
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.AssemblyInfoInputs.cache
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.AssemblyInfo.cs
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.csproj.CoreCompileInputs.cache
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.dll
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\refint\educational practice 7.dll
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.pdb
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\educational practice 7.genruntimeconfig.cache
+D:\Home\Desktop\учебная практика\educational practice 7\educational practice 7\obj\Debug\net8.0\ref\educational practice 7.dll

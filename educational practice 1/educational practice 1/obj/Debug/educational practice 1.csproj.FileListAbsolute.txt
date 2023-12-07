@@ -1,0 +1,7 @@
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\bin\Debug\educational_practice_1.exe
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\bin\Debug\educational_practice_1.pdb
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\obj\Debug\educational practice 1.csproj.AssemblyReference.cache
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\obj\Debug\educational practice 1.csproj.SuggestedBindingRedirects.cache
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\obj\Debug\educational practice 1.csproj.CoreCompileInputs.cache
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\obj\Debug\educational_practice_1.exe
+D:\Home\Desktop\учебная практика\educational practice 1\educational practice 1\obj\Debug\educational_practice_1.pdb
